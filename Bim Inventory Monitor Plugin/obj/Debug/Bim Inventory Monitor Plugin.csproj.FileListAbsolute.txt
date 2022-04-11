@@ -1,0 +1,14 @@
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.dll
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.pdb
+C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin.dll
+C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin.pdb
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.csproj.CopyComplete
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.csproj.GenerateResource.cache
+C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin.dll.config
+C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\Bim Inventory Monitor Plugin\PlugInDatabase.db
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.csprojAssemblyReference.cache
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim_Inventory_Monitor_Plugin.CummulativeForm.resources
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim_Inventory_Monitor_Plugin.Form1.resources
+C:\Program Files\Autodesk\Navisworks Manage 2017\Plugins\Bim Inventory Monitor Plugin\GoogleSheets.py
+C:\Users\Sentinel\Desktop\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\Bim Inventory Monitor Plugin\obj\Debug\Bim Inventory Monitor Plugin.csproj.ResolveComReference.cache
