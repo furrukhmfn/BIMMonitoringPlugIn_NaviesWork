@@ -1,5 +1,4 @@
-﻿
-namespace Bim_Inventory_Monitor_Plugin
+﻿namespace Bim_Inventory_Monitor_Plugin
 {
     partial class CummulativeForm
     {
